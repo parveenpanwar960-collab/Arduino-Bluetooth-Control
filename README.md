@@ -17,3 +17,11 @@ Yeh ek hardware-software integration project hai jo smartphone ke zariye devices
 2. Code (.ino file) ko Arduino IDE ke zariye upload karein.
 3. Mobile app se module ko pair karein.
 4. App se commands bhejein (jaise '1' for ON, '0' for OFF).
+
+
+
+---
+## 📩 Contact for Projects / Freelancing
+Agar aapko koi customized Arduino code ya robotics project banwana hai, toh aap mujhse yahan contact kar sakte hain:
+
+* **Email:** [parveenpanwar960@gmail.com]
